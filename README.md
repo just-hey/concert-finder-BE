@@ -12,7 +12,7 @@ Start by forking and cloning this repo.
 Then install all dependencies
 
 ```shell
-cd galvanize-snacks
+cd concertFinder
 npm install
 ```
 
